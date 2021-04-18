@@ -1,0 +1,14 @@
+{
+  "name": "mprisinteract",
+  "version": "1.0.0",
+  "description": "Interact with DBUS and MPRIS (tested on chrome)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "KuhnChris <kuhnchris@kuhnchris.eu>",
+  "license": "CC-BY-SA",
+  "dependencies": {
+    "dbus-next": "^0.9.1"
+  }
+}
